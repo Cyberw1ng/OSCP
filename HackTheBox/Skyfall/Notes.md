@@ -1,4 +1,4 @@
-# Skyfall HACKTHEBOX Writeup - Seasonal Machine (Insane)
+# Skyfall HacktheBox Writeup - Seasonal Machine (Insane)
 
 https://cyberw1ng.medium.com
 
